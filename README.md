@@ -1,5 +1,6 @@
 # blog-tutorial
 
+### This is a small blog created using Vuejs and Firebase as the backend, nothing fancy
 ## Project setup
 ```
 yarn install
